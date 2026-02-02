@@ -63,7 +63,7 @@
     { "pattern": "Bikini%s?String", "points": 9.5 },
     { "pattern": "Bad%s?Dragon", "points": 9.5 },
 
-    { "pattern": "Astolf?o?", "points": 8 },
+    { "pattern": "Astolf?o?", "points": 5 },
     { "pattern": "Tongue", "points": 8 },
     { "pattern": "Mommy", "points": 8 },
     { "pattern": "Daddy", "points": 8 },
@@ -116,7 +116,7 @@
     { "pattern": "Belly", "points": 3 },
     { "pattern": "Cat%s?girl", "points": 3 },
     { "pattern": "Cat%s?boy", "points": 3 },
-    { "pattern": "Turtle%s?Neck", "points": 3 },
+    { "pattern": "Turtle%s?Neck", "points": 2 },
     { "pattern": "Milker", "points": 3 },
     { "pattern": "Milks", "points": 3 },
     { "pattern": "Milkie", "points": 3 },
@@ -128,7 +128,7 @@
     { "pattern": "Love", "points": 2 },
     { "pattern": "Thigh", "points": 2 },
 
-    { "pattern": "Collar", "points": 1.5 },
+    { "pattern": "Collar", "points": 0.5 },
     { "pattern": "Blush", "points": 1.5 },
     { "pattern": "Choker", "points": 1.5 },
 
