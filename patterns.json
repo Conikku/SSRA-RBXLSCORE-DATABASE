@@ -53,15 +53,33 @@
     { "pattern": "Mime & Dash", "points": 20 },
     { "pattern": "Mime and Dash", "points": 20 },
     { "pattern": "Meru", "points": 20 },
+    { "pattern": "mu.?r%s?suit", "points": 20 },
+    { "pattern": "Onyx Luxe Body%s?suit", "points": 20 },
+    { "pattern": "futa", "points": 20 },
+    { "pattern": "2 seater", "points": 20 },
+    { "pattern": "🥛", "points": 20 },
+    { "pattern": "🔞", "points": 20 },
+    { "pattern": "Meru", "points": 20 },
+    { "pattern": "ashley%s?graves", "points": 20 },
+    { "pattern": "Bad%s?Dragon", "points": 20 },
+    { "pattern": "Onyx Luxe Body%s?suit", "points": 20 },
+    { "pattern": "dirty pop", "points": 20 },
+    
     { "pattern": "e621", "points": 15 },
+    { "pattern": "Puro", "points": 15 },
 
+    { "pattern": "Pacifier", "points": 10 },
+    { "pattern": "Diaper", "points": 10 },
+    { "pattern": "pamper", "points": 10 },
+    { "pattern": "Latex", "points": 10 },
+    { "pattern": "Womb", "points": 10 },
+    
     { "pattern": "Wedgie", "points": 9.5 },
     { "pattern": "Wedge%s?String", "points": 9.5 },
     { "pattern": "String%s?Set", "points": 9.5 },
     { "pattern": "String%s?Pants", "points": 9.5 },
     { "pattern": "String%s?Bikini", "points": 9.5 },
     { "pattern": "Bikini%s?String", "points": 9.5 },
-    { "pattern": "Bad%s?Dragon", "points": 9.5 },
 
     { "pattern": "Astolf?o?", "points": 5 },
     { "pattern": "Tongue", "points": 8 },
@@ -83,9 +101,7 @@
     { "pattern": "Woman R6", "points": 6 },
     { "pattern": "DCUA", "points": 6 },
     { "pattern": "jugs", "points": 6 },
-
-    { "pattern": "Pacifier", "points": 5 },
-    { "pattern": "Diaper", "points": 5 },
+    
     { "pattern": "Fangirling", "points": 5 },
     { "pattern": "Bypass", "points": 5 },
     { "pattern": "Cow girl", "points": 5 },
@@ -111,7 +127,7 @@
     { "pattern": "abs", "points": 4 },
 
     { "pattern": "Lovely", "points": 3 },
-    { "pattern": "Ripped", "points": 3 },
+    { "pattern": "Ripped", "points": 2 },
     { "pattern": "Maid", "points": 3 },
     { "pattern": "Belly", "points": 3 },
     { "pattern": "Cat%s?girl", "points": 3 },
@@ -137,5 +153,48 @@
     { "pattern": "Women", "points": 0.5 },
     { "pattern": "Female", "points": 0.5 },
     { "pattern": "Neko", "points": 0.5 }
+
+    {
+      "description": "Inappropiate clothing",
+      "points": 20,
+      "specific": [
+        17787238612, 18130050794, 18253231659, 18271420461, 106255423736884,
+        87782555304510, 6827076185, 7690030498, 11181115146, 122942381860623,
+        18864399511, 140145417120785, 128771020655032, 74229278642775,
+        70999214504028
+      ]
+    },
+    {
+      "description": "Poor SFW reputation creators (20)",
+      "points": 20,
+      "creators": [
+        5903343, 32536194, 35422015, 34610460, 14510504, 34390160, 8049908,
+        35732284, 16061470, 35231050, 16159109, 7901851, 9869192, 34423598,
+        34728035, 5539042, 35231050, 34973264, 18900945353, 35215121, 34793309,
+        34886286, 12400331, 924659449
+      ]
+    },
+    {
+      "description": "Poor SFW reputation creators (8)",
+      "points": 8,
+      "creators": [1311117961, 34221558, 17040209, 16171992]
+    },
+    {
+      "description": "Poor SFW reputation clothing creators",
+      "points": 20,
+      "creators": [10832235, 8080203],
+      "onlyClothing": true
+    },
+    {
+      "description": "Poor SFW reputation clothing creators (9.5)",
+      "points": 9.5,
+      "creators": [5119971, 35339013],
+      "onlyClothing": true
+    },
+    {
+      "description": "Controversial items",
+      "points": 10,
+      "specific": [6390393392, 18115381050]
+    }
   ]
 }
